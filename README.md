@@ -3,7 +3,7 @@
 ###Education
 
 
-### Work experience
+###Work experience
 
 
 ###Projects
