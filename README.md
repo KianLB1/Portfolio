@@ -1,9 +1,6 @@
-# Data analyst
+# Coding Projects
 
-###Education
-
-
-###Work experience
+###Python
 
 
-###Projects
+###SQL
